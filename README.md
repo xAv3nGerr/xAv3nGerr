@@ -1,13 +1,10 @@
 <div align="center">
 
 # @v3bc_
-[![Discord Presence](https://lanyard.cnrad.dev/api/549599621056561152?borderRadius=10)](https://discord.com/users/1131193270047883334)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1131193270047883334?borderRadius=10)](https://discord.com/users/1131193270047883334)
 
-# Visits
 
-![Profile Views](https://count.getloli.com/@Avengersikcounter?name=Avengersikcounter&theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
-
-# 👋 Hey, I'm V3bc_
+# 👋 Hey, I'm v3bc_
 
 ### Minecraft Plugins Developer
 
