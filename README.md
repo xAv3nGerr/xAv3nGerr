@@ -1,7 +1,7 @@
 <div align="center">
 
 # @v3bc_
-[![Discord Presence](https://lanyard.cnrad.dev/api/1131193270047883334?borderRadius=10)](https://discord.com/users/1131193270047883334)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1131193270047883334?borderRadius=10&theme=dark&idleMessage=Hello%20guys!!!!!!!)](https://discord.com/users/1131193270047883334)
 
 
 # 👋 Hey, I'm v3bc_
