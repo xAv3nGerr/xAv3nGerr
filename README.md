@@ -12,11 +12,11 @@
 
 ---
 
-## 🚀 About Me
+## ✨ About Me
 
-I'm a passionate e backend developer with a strong focus on Minecraft plugin creation and server-side automation. Most of my experience is in Java, building custom plugins for PaperMC and Spigot. I love optimizing gameplay mechanics, and making community-driven server projects come to life. Currently, I'm exploring advanced frameworks and enjoying the challenge of scalable system design.
+I'm passionate about writing advanced plugins for Minecraft and websites. In my free time, I enjoy playing Counter-Strike 2 and making games for Roblox. :)
 
-## 🛠️ Tech Stack
+## 🎮 Tech Stack
 
 **Languages**
 
