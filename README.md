@@ -20,11 +20,11 @@ I'm a passionate backend developer with a strong focus on Minecraft plugin creat
 
 **Languages**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Minecraft **
+**Minecraft**
 
 ![Paper](https://img.shields.io/badge/Paper-009688?style=for-the-badge&logo=minecraft&logoColor=white)
 ![Velocity](https://img.shields.io/badge/Velocity-1DA1F2?style=for-the-badge&logo=minecraft&logoColor=white)
