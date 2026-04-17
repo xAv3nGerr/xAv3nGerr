@@ -14,7 +14,7 @@
 
 ## ✨ About Me
 
-I'm passionate about writing advanced plugins for Minecraft and websites. In my free time, I enjoy playing Counter-Strike 2 and making games for Roblox. :)
+I'm passionate about writing advanced plugins for Minecraft and websites. In my free time, I enjoy playing Counter-Strike 2 and osu :)
 
 ## 🎮 Tech Stack
 
